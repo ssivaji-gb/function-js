@@ -191,6 +191,8 @@
 // }
 // calculate(10,100,"+");
 
+// refered----------------- own coded
+
 // 🎯 Mini Project 2 – Student Grade Evaluator
 // Concepts Covered:
 // Function declaration, return values, conditional statements, arrow functions.
@@ -220,6 +222,8 @@
 // }
 // getgrade(59);
 
+// refered----------------- own coded
+
 // 🎯 Mini Project 3 – Random Quote Generator
 // Concepts Covered:
 // Arrow functions, arrays, random number generation, callback functions.
@@ -233,6 +237,8 @@
 
 
 // Display the result on the page (in console or innerHTML).
+
+// refered----------------- own coded
 
 
 // 🎯 Mini Project 4 – Temperature Converter
@@ -256,5 +262,7 @@
 //   }
 // }
 // convertTemperature(25, "");
+
+// refered----------------- own coded
 
 
