@@ -131,6 +131,8 @@
 // }
 // }
 // console.log(isPrime(20));
+// console.log(isPrime(2));
+// console.log(isPrime(12));
 // refered----------------- own coded
 
 // 10. Closure Counter
@@ -218,6 +220,21 @@
 // }
 // getgrade(59);
 
+// 🎯 Mini Project 3 – Random Quote Generator
+// Concepts Covered:
+// Arrow functions, arrays, random number generation, callback functions.
+// Objective:
+// Display a random motivational quote each time the user clicks a button.
+// Requirements:
+// Store 5–10 quotes in an array.
+
+
+// Create a function getRandomQuote() that returns a random quote.
+
+
+// Display the result on the page (in console or innerHTML).
+
+
 // 🎯 Mini Project 4 – Temperature Converter
 // Concepts Covered:
 // Functions, parameters, return values, conditionals, arrow functions (optional)
@@ -239,3 +256,5 @@
 //   }
 // }
 // convertTemperature(25, "");
+
+
